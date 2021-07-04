@@ -143,5 +143,8 @@ sum_national=round(national["PTN_2020"].sum())
 # - What was difficult?
 
 # YOUR ANSWER HERE
+#It is five, I had no idea what to do.
+#I was able to read the file.
+#The others were difficult. The error didn't go away.
 
 # Well done!
